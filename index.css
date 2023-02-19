@@ -67,7 +67,7 @@ img {
 .hero-section {
   display: flex;
   align-items: center;
-  height: 20rem;
+  height: auto;
 
 }
 
